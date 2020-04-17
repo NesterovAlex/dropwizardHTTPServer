@@ -1,0 +1,64 @@
+Manifest-Version: 1.0
+Built-By: Zyaba
+Class-Path: dropwizard-core-2.0.7.jar dropwizard-util-2.0.7.jar dropwi
+ zard-jackson-2.0.7.jar jackson-core-2.10.3.jar jackson-datatype-guava
+ -2.10.3.jar jackson-datatype-jsr310-2.10.3.jar jackson-datatype-jdk8-
+ 2.10.3.jar jackson-module-parameter-names-2.10.3.jar jackson-module-a
+ fterburner-2.10.3.jar jackson-datatype-joda-2.10.3.jar dropwizard-val
+ idation-2.0.7.jar jakarta.el-3.0.3.jar dropwizard-configuration-2.0.7
+ .jar jackson-dataformat-yaml-2.10.3.jar snakeyaml-1.26.jar commons-te
+ xt-1.8.jar dropwizard-logging-2.0.7.jar metrics-logback-4.1.6.jar jul
+ -to-slf4j-1.7.30.jar logback-core-1.2.3.jar logback-throttling-append
+ er-1.1.0.jar log4j-over-slf4j-1.7.30.jar jcl-over-slf4j-1.7.30.jar dr
+ opwizard-metrics-2.0.7.jar dropwizard-jersey-2.0.7.jar jersey-metainf
+ -services-2.30.1.jar jersey-hk2-2.30.1.jar hk2-locator-2.6.1.jar metr
+ ics-jersey2-4.1.6.jar jackson-jaxrs-json-provider-2.10.3.jar jackson-
+ jaxrs-base-2.10.3.jar jackson-module-jaxb-annotations-2.10.3.jar hk2-
+ api-2.6.1.jar hk2-utils-2.6.1.jar aopalliance-repackaged-2.6.1.jar je
+ rsey-container-servlet-2.30.1.jar jetty-io-9.4.27.v20200227.jar dropw
+ izard-servlets-2.0.7.jar metrics-annotation-4.1.6.jar dropwizard-jett
+ y-2.0.7.jar jetty-servlets-9.4.27.v20200227.jar jetty-continuation-9.
+ 4.27.v20200227.jar jetty-http-9.4.27.v20200227.jar dropwizard-lifecyc
+ le-2.0.7.jar metrics-core-4.1.6.jar metrics-jetty9-4.1.6.jar metrics-
+ jvm-4.1.6.jar metrics-jmx-4.1.6.jar metrics-servlets-4.1.6.jar metric
+ s-json-4.1.6.jar profiler-1.1.1.jar metrics-healthchecks-4.1.6.jar dr
+ opwizard-request-logging-2.0.7.jar logback-access-1.2.3.jar logback-c
+ lassic-1.2.3.jar jackson-databind-2.10.3.jar jsr305-3.0.2.jar jakarta
+ .servlet-api-4.0.3.jar jakarta.ws.rs-api-2.1.6.jar argparse4j-0.8.1.j
+ ar jetty-security-9.4.27.v20200227.jar jetty-server-9.4.27.v20200227.
+ jar jetty-servlet-9.4.27.v20200227.jar jetty-util-9.4.27.v20200227.ja
+ r jetty-setuid-java-1.0.4.jar jakarta.inject-2.6.1.jar jersey-common-
+ 2.30.1.jar osgi-resource-locator-1.0.3.jar jersey-bean-validation-2.3
+ 0.1.jar slf4j-api-1.7.30.jar jackson-annotations-2.10.3.jar jakarta.v
+ alidation-api-2.0.2.jar hibernate-validator-6.1.2.Final.jar jboss-log
+ ging-3.3.2.Final.jar classmate-1.5.1.jar postgresql-9.1-901-1.jdbc4.j
+ ar dropwizard-hibernate-2.0.7.jar dropwizard-db-2.0.7.jar jackson-dat
+ atype-hibernate5-2.10.3.jar javax.transaction-api-1.3.jar javax.persi
+ stence-api-2.2.jar joda-time-2.10.5.jar tomcat-jdbc-9.0.34.jar tomcat
+ -juli-9.0.34.jar jersey-client-2.30.1.jar jersey-server-2.30.1.jar je
+ rsey-media-jaxb-2.30.1.jar javassist-3.27.0-GA.jar usertype.core-7.0.
+ 0.CR1.jar usertype.spi-7.0.0.CR1.jar hibernate-core-5.4.14.Final.jar 
+ byte-buddy-1.10.9.jar antlr-2.7.7.jar jboss-transaction-api_1.2_spec-
+ 1.1.1.Final.jar jandex-2.1.1.Final.jar dom4j-2.1.1.jar hibernate-comm
+ ons-annotations-5.1.0.Final.jar jaxb-runtime-2.3.1.jar txw2-2.3.1.jar
+  istack-commons-runtime-3.0.7.jar stax-ex-1.8.jar FastInfoset-1.2.15.
+ jar jakarta.activation-api-1.2.2.jar jakarta.xml.bind-api-2.3.3.jar d
+ ropwizard-forms-2.0.7.jar jersey-media-multipart-2.30.1.jar mimepull-
+ 1.9.11.jar dropwizard-auth-2.0.7.jar caffeine-2.8.1.jar checker-qual-
+ 3.3.0.jar error_prone_annotations-2.3.4.jar guava-28.2-jre.jar failur
+ eaccess-1.0.1.jar listenablefuture-9999.0-empty-to-avoid-conflict-wit
+ h-guava.jar j2objc-annotations-1.3.jar jakarta.annotation-api-1.3.5.j
+ ar jersey-container-servlet-core-2.30.1.jar okta-jwt-verifier-0.3.0.j
+ ar oauth2-oidc-sdk-5.30.jar mail-1.4.7.jar activation-1.1.jar jcip-an
+ notations-1.0-1.jar commons-collections4-4.1.jar json-smart-2.3.jar a
+ ccessors-smart-1.2.jar asm-5.0.4.jar lang-tag-1.4.4.jar nimbus-jose-j
+ wt-4.39.2.jar dropwizard-assets-2.0.7.jar dropwizard-views-mustache-2
+ .0.7.jar dropwizard-views-2.0.7.jar compiler-0.9.6.jar dropwizard-cli
+ ent-2.0.7.jar commons-lang3-3.10.jar httpclient-4.5.12.jar commons-co
+ dec-1.11.jar httpcore-4.4.13.jar metrics-httpclient-4.1.6.jar jersey-
+ apache-connector-2.30.1.jar dropwizard-auth-jwt-1.1.2-0.jar jose4j-0.
+ 6.0.jar
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Main-Class: com.nesterov.dw_hibernate.AppApplication
+

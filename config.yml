@@ -1,0 +1,17 @@
+logging:
+  level: INFO
+  loggers:
+    com.nesterov: DEBUG
+database:
+ driverClass: org.postgresql.Driver
+ user: postgres
+ password: 123456
+ url: jdbc:postgresql://localhost:5432/mydb
+ properties:
+  charSet: UTF-8
+ maxWaitForConnection: 1s
+ validationQuery: "SELECT 1"
+apiURL: https://openexchangerates.org/api/latest.json
+apiKey: Your API key
+login: magiclogin
+password: magicpassword
